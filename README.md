@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Yash 👋
 
-<!--
-**YashOnFire/YashOnFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer currently learning the **C programming language**.  
+Trying to build a strong foundation in programming and understand the core concepts.
 
-Here are some ideas to get you started:
+💻 Currently:
+- 📘 Learning: C language (starting with basics)
+- 🔍 Exploring: How programming works behind the scenes
+- 🧱 Building habits: Consistency & problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Future Goals:
+- Learn more languages like Python & JavaScript
+- Build my first project
+- Start contributing to open-source someday
+
+Thanks for visiting my profile! 🙌
